@@ -1,9 +1,9 @@
 .body1{
     background-color: #fcd6fc;
 }
-.login1{
+.register1{
     width: 300px;
-    height: 300px;
+    height: 360px;
     border: 2px solid grey;
     border-radius: 10px;
     text-align: center;
@@ -11,14 +11,14 @@
     margin-top: 5%;
     background-color: #ffffff;
 }
-.login1:hover{
+.register1:hover{
     border: 2px solid black;
 }
 h2{
     color: #868787;
     font-family: sans-serif;
 }
-.login1 input{
+.register1 input{
     width: 200px;
     height: 40px;
     margin-bottom: 10px;
@@ -26,7 +26,7 @@ h2{
     border: 2px solid grey;
     padding-left: 8px;
 }
-.login1 input:hover{
+.register1 input:hover{
     border: 2px solid black;
 }
 .btnlogin{
@@ -53,11 +53,11 @@ h2{
 .btnregis:hover{
     background-color: #62fff7;
 }
-.btnlogin a{
+.btnregis a{
     text-decoration: none;
     color: white;
 }
-.btnregis a{
+.btnlogin a{
     text-decoration: none;
     color: white;
 }
